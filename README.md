@@ -30,77 +30,66 @@
 
 # Features
 
-- [Signin](#signin)
+- [Landing Page](#landing-page)
+- [Register](#register-as-employeeadmin)
+- [Signin](#sign-in-as-employeeadmin)
+- [Navbar](#navigation-bar)
+- [Sidebar](#side-navigation-bar)
 - [Dashboard](#dashboard)
-- [Notifications](#notifications)
-- [Sidebar](#sidebar)
-- [Calendar](#calendar)
 - [Profile](#profile)
-- [Edit Profile](#edit-profile)
-- [Create Course](#create-course)
-- [Publish Result](#publish-result)
-- [Attendance](#attendance])
-- [Display Result](#display-result)
-- [Join Class](#join-class)
-- [Class List](#class-list)
-- [View Inside Classroom](#view-classroom)
-- [Upload Post](#upload-post)
-- [Comment](#comment)
+- [Employee](#employee-list)
+- [Project](#project)
+- [Footer](#footer)
 
-## Signin
-
-Students and teachers can login to an already existing account.If they forget their password, a reset password link will be sent to their email.
-
-![Signin](demoImages/signin1.jpg) ![Signin](demoImages/signin2.png)
-
-# LANDING PAGE:
+## LANDING PAGE:
 
 ![welcome](demoImages/welcome.png)
 
-# REGISTER AS EMPLOYEE/ADMIN:
+## REGISTER AS EMPLOYEE/ADMIN:
 
 ![Register-as-employee](demoImages/Register-as-employee.png)
 
 ![Register-as-admin](demoImages/Register-as-admin.png)
 
-# SIGN IN AS ADMIN:
-
-![signin-as-admin](demoImages/signin-as-admin.png)
-
-# SIGN IN AS EMPLOYEE
+## SIGN IN AS EMPLOYEE/ADMIN:
 
 ![signin-as-employee](demoImages/signin-as-employee.png)
+![signin-as-admin](demoImages/signin-as-admin.png)
 
-# DASHBOARD-1:
+## NAVIGATION BAR
+
+![Navigation Bar](demoImages/Navigation%20Bar.png)
+
+## SIDE NAVIGATION BAR
+
+![Side Navigation Bar](demoImages/Side%20Navigation%20Bar.png)
+
+## DASHBOARD:
 
 ![Dashboard1](demoImages/Dashboard1.png)
 ![Dashboard2](demoImages/Dashboard2.png)
 
-# NAVIGATION BAR
-
-![Navigation Bar](demoImages/Navigation%20Bar.png)
-
-# SIDE NAVIGATION BAR
-
-![Side Navigation Bar](demoImages/Side%20Navigation%20Bar.png)
-
-# FOOTER
-
-![Footer](demoImages/Footer.png)
-
-# EMPLOYEE LIST:
+## EMPLOYEE LIST:
 
 ![Employee List](demoImages/Employee%20List.png)
 
-# ADD EMPLOYEE:
+### ADD EMPLOYEE:
 
 ![Add Employee Form](demoImages/Add%20Employee%20Form.png)
 
-# PROFILE
+## PROFILE
 
 ![Profile1](demoImages/Profile1.png)
 ![Profile2](demoImages/Profile2.png)
 
-# PROJECT
+### EDIT PROFILE
+
+![Edit Profile](demoImages/Edit%20Profile.png)
+
+## PROJECT
 
 ![Profile1](demoImages/Projects.png)
+
+# FOOTER
+
+![Footer](demoImages/Footer.png)
