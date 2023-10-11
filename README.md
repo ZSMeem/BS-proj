@@ -20,13 +20,12 @@
     </a>
     <br />
   <h3 align="center">Built With</h3>
-  <h4 align="center">Frameworks and Dependencies</h4>
   <p align="center">
     <a href="https://reactjs.org/">
       <img src="https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
     </a>
-    </p>
-    </p>
+  </p>
+</p>
 
 # Features
 
