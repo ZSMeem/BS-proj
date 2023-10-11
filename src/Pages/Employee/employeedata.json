@@ -1,0 +1,77 @@
+[
+    {
+        "id":1,
+        "gen":"Woman",
+        "name": "Zannatul Fardaush ",
+        "designation":"Full Stack Developer",
+         "about":"Lorem Ipsum is simply dummy text of the printing and typesetting industry.  ",
+         "rating":"5",
+         "project":3
+
+    },
+    {
+         "id":2,
+            "gen":"Woman",
+        "name": "Zerin Shaima Meem",
+        "designation":"Full Stack Developer",
+         "about":"Lorem Ipsum is simply dummy text of the printing and typesetting industry.  ",
+           "rating":"5",
+         "project":3
+    },
+     {
+         "id":3,
+         "gen":"man",
+        "name": "Tahlil Abrar",
+        "designation":"Wordpress Developer",
+       "about":"Lorem Ipsum is simply dummy text of the printing and typesetting industry.  ",
+         "rating":"5",
+         "project":3
+    },
+    {
+         "id":4,
+        "name": "Omar Farook",
+         "gen":"man",
+        "designation":"Full Stack Developer",
+        "about":"Lorem Ipsum is simply dummy text of the printing and typesetting industry.  ",
+          "rating":"5",
+         "project":3
+    },
+      {
+         "id":5,
+        "name": "Arian Al Nafis",
+         "gen":"man",
+        "designation":"QA/QC Engineer",
+        "about":"Lorem Ipsum is simply dummy text of the printing and typesetting industry.  ",
+          "rating":"5",
+         "project":3
+    },
+    {
+         "id":6,
+        "name": "Estiak Ahmed Sazid",
+         "gen":"man",
+        "designation":"Full Stack Developer",
+        "about":"Lorem Ipsum is simply dummy text of the printing and typesetting industry.  ",
+          "rating":"5",
+         "project":3
+    },
+    {
+         "id":7,
+            "gen":"Woman",
+        "name": "Karnis Fatema Arju",
+        "designation":"Quality Assurance",
+        "about":"Lorem Ipsum is simply dummy text of the printing and typesetting industry.  ",
+          "rating":"5",
+         "project":3
+    },
+      {
+         "id":8,
+            "gen":"Woman",
+        "name": "Sadia Ahmed",
+        "designation":"Mobile App developer",
+         "about":"Lorem Ipsum is simply dummy text of the printing and typesetting industry.  ",
+           "rating":"5",
+         "project":3
+    }
+    
+
+]

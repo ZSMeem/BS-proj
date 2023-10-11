@@ -1,0 +1,42 @@
+
+
+
+.card {
+    transition: transform 0.3s;
+
+
+}
+
+.card:hover {
+    transform: scale(1.02);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    background-color: #F9F9FF;
+}
+.ViewBtn{
+    background-color:#0F1A43;
+
+}
+.Designation
+{
+    background-color: #D0D4CD;
+    font-size: small;
+}
+.EmployeeAvailability
+{
+    color:"green";
+    height: 5rem;
+    width: 5rem;
+    text-align: center;
+}
+.BarSize {
+    width: 100%;
+    /* Take up 100% of the available width */
+    max-width: 800px;
+    /* Set a maximum width if needed */
+    margin: 0 auto;
+    /* Center the div horizontally */
+    padding: 20px;
+    /* Add some padding for spacing */
+    box-sizing: border-box;
+    /* Ensure padding and border are included in the total width */
+}

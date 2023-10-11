@@ -1,0 +1,85 @@
+{
+  "user": {
+    "img": "/prifile-img.jpg",
+    "company": "Brain Station 23",
+    "name": "Omar Farook",
+    "role": "Web Developer",
+    "id": 1804125,
+    "description": " Lorem ipsum dolor sit amet consectetur adipisicing elit.Rem rerum non illum, labore architecto delectus. Loremipsum dolor sit amet consectetur, adipisicing",
+    "mobile": "01867252378",
+    "phone": "02-8620542",
+    "email": "omarfarook666@gmail.com",
+    "address": "146/2 Azimpur, Dhaka"
+  },
+  "currentProjects": [
+    {
+      "projectName": "Social Geek Made",
+      "projectWork": "UI/UX Design",
+      "attach": "5 Attach",
+      "time": "4 months",
+      "icon": "faUikit",
+      "members": "4 members",
+      "comments": "10 comments",
+      "progress": "60",
+      "timeLeft": "35 days left"
+    },
+    {
+      "projectName": "Practice to Perfect",
+      "projectWork": "Website Design",
+      "attach": "5 Attach",
+      "time": "4 months",
+      "members": "5 members",
+      "comments": "10 comments",
+      "progress": "80",
+      "timeLeft": "15 days left"
+    },
+    {
+      "projectName": "Med UiKit",
+      "projectWork": "Database Design",
+      "attach": "5 Attach",
+      "time": "4 months",
+      "members": "5 members",
+      "comments": "10 comments",
+      "progress": "30",
+      "timeLeft": "1 month left"
+    }
+  ],
+  "personalInfo": {
+    "nationality": "Bangladeshi",
+    "religion": "Islam",
+    "maritalStatus": "Unmarried",
+    "passport": "5468953210",
+    "emergency": "01835986980"
+  },
+  "bankInfo": {
+    "bankInfo": "Eastern Bank ltd.",
+    "account": "5436874596325486",
+    "ificCode": "ebl123456",
+    "panNo": "ACQPF6584L",
+    "upiId": "454812kotak@upi"
+  },
+  "experience": [
+    {
+      "abriviation": "BS",
+      "companyName": "Brain Station 23",
+      "from": "Jan 2023",
+      "to": "Present",
+      "color": "grey"
+    },
+    {
+      "abriviation": "AC",
+      "companyName": "AppsCode",
+      "from": "Jan 2021",
+      "to": "Jan 2023",
+      "color": "orange"
+    },
+    {
+      "abriviation": "BIT",
+      "companyName": "BJIT",
+      "from": "Oct 2020",
+      "to": "Jan 2021",
+      "color": "blue"
+    }
+  ],
+  "profficiency": {}
+}

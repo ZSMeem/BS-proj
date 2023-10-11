@@ -1,0 +1,34 @@
+{
+  "admin": [
+    {
+      "id": "1234",
+      "fName": "Sajid",
+      "lName": "Ahamed",
+      "email": "sazid@gmail.com",
+      "pass": "1234"
+    },
+    {
+      "id": "123",
+      "fName": "Sazid",
+      "lName": "Abid",
+      "email": "a@gmail.com",
+      "pass": "123456"
+    },
+    {
+      "id": "12345",
+      "fName": "Sazid",
+      "lName": "Ah",
+      "email": "sazid@gmail.com",
+      "pass": "12345"
+    }
+  ],
+  "employee": [
+    {
+      "id": "1804051",
+      "fName": "Estiak",
+      "lName": "Sazid",
+      "email": "estiaksazid@gmail.com",
+      "pass": "123456"
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+.sidebar{
+    z-index: 50!important;
+    margin-top: 20px;
+}
+.sidebar-container{
+    font-weight: 500;
+}
