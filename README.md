@@ -1,7 +1,7 @@
 <p align="center">
   <img width="300px" src="https://img.itch.zone/aW1nLzQ3MjU0MTEucG5n/original/AVxC8g.png" align="center" alt="GitHub Readme Stats" />
 
- <h1 align="center">Brain Station 23 Employee MAnagement System</h2>
+ <h1 align="center">Brain Station 23 Employee Management System</h2>
  <p align="center">An online web application made as a team project using React JS for Industrial Attachment 2023.</p>
 </p>
 
@@ -89,6 +89,6 @@
 
 ![Profile1](demoImages/Projects.png)
 
-# FOOTER
+## FOOTER
 
 ![Footer](demoImages/Footer.png)

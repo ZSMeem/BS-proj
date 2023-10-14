@@ -11,7 +11,7 @@ import Home from './Pages/Home';
 import Signin from './Pages/SigninSignup/signin/SignIn';
 import AdminSignUp from './Pages/SigninSignup/signup/AdminSignUp';
 import EmpSignUp from './Pages/SigninSignup/signup/empSignUp';
-import Project from './Pages/Project/components/KanbanBoard';
+import Project from './Pages/Project';
 import App from './App';
 //import "./App.css";
 const root = ReactDOM.createRoot(document.getElementById('root'));
