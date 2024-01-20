@@ -89,10 +89,8 @@
 
 ![Profile1](demoImages/Projects.png)
 
-<<<<<<< HEAD
 ## FOOTER
 =======
 ##FOOTER
->>>>>>> 15e52d039911696c6e256d6a4cee82ca2d9f9f8c
 
 ![Footer](demoImages/Footer.png)
