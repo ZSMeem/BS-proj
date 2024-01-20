@@ -90,7 +90,5 @@
 ![Profile1](demoImages/Projects.png)
 
 ## FOOTER
-=======
-##FOOTER
 
 ![Footer](demoImages/Footer.png)
